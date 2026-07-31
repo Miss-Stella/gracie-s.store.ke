@@ -21,12 +21,12 @@ export default function Footer() {
             </h2>
 
             <p className="mt-2 font-accent text-2xl text-[#B88A93]">
-              Gracefully Chic
+              Define Your Chic
             </p>
 
             <p className="mt-6 max-w-sm leading-7 text-[#6E6262] md:mx-0 mx-auto">
-              Handcrafted crochet accessories designed to celebrate
-              timeless elegance, softness and everyday beauty.
+              Handcrafted accessories designed to celebrate
+              simplicity, elegance, softness and everyday beauty.
             </p>
 
           </div>

@@ -10,7 +10,7 @@ export default function About() {
         <div className="mx-auto max-w-3xl text-center">
 
           <p className="font-accent text-3xl text-[#B88A93]">
-            Gracefully Chic
+            Define Your Chic
           </p>
 
           <h1 className="mt-4 font-heading text-6xl text-heading">
@@ -20,8 +20,8 @@ export default function About() {
           </h1>
 
           <p className="mt-8 text-lg leading-8 text-body">
-            Handmade crochet accessories inspired by love,
-            elegance, and the beauty found in everyday moments.
+            Handcrafted accessories inspired to accentuate the simplicity,
+            elegance, and beauty found in everyday moments.
           </p>
 
         </div>
@@ -38,15 +38,15 @@ export default function About() {
 
             <p>
               Gracie's began with something beautifully simple;
-              a love for creating handmade pieces that bring joy
+              a love for creating handcrafted pieces that adds pattern
               to everyday life while balancing color and chic.
             </p>
 
             <p>
               Inspired by love and art, this brand was born
               from the desire to celebrate elegance through
-              handcrafted accessories. Every crochet scrunchie is
-              made patiently, one stitch at a time, with careful
+              handcrafted accessories. Behind each piece is
+              patience, one stitch at a time, with careful
               attention to detail and quality.
             </p>
 
